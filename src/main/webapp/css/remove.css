@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+h2 {
+	margin: auto;
+	width: 15%;
+	padding: 5px;
+	text-align: center;
+}
+
+#re {
+	margin: auto;
+	width: 15%;
+	text-align: center;
+	height: 100px;
+	background-color: rgb(250, 250, 150);
+	border: 5px groove red;
+	/* 	width: 250px; 
+	border-bottom-color: yellow;
+    border-left-color: purple;
+    border-right-color: blue;
+    border-right-style: outset;
+    border-left-style: inset;
+    border-bottom-style: dotted; 
+	position: relative;*/
+	padding: 25px;
+	border-radius: 2px; /* 
+	background-color: rgb(250, 250, 150);
+	border: 5px groove red; */
+}
+/* 
+#butt {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 70px;
+	background-color: rgb(173, 246, 173);
+	position:relative;
+	left:300px;
+}
+
+#butt2 {
+	width: 70px;
+	background-color: rgb(173, 173, 250);
+	position:absolute;
+	left:300px;
+} */
